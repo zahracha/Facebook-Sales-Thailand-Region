@@ -1,4 +1,4 @@
-In this project, we applied K-Means clustering for customer segmentation. The focus was on determining the optimal number of clusters using the Elbow Method, visualizing centroids, and evaluating model performance with the Silhouette Plot.
+In this project, I applied K-Means clustering for customer segmentation. The focus was on determining the optimal number of clusters using the Elbow Method, visualizing centroids, and evaluating model performance with the Silhouette Plot.
 
 **1. Elbow Method**
 
